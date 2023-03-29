@@ -23,3 +23,10 @@ Example
 ```
 
 Credit: [shakib609](https://www.codewars.com/users/shakib609)
+
+
+## My view
+
+This one was a bit confusing at first. It was not so clear to me, but every argument must be divided by its "index", starting at 1. 
+
+All in all, it was a fun exercise and a good way to practice.
